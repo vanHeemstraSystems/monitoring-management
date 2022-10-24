@@ -11,6 +11,8 @@ This repository is the **server** of the client repository at https://github.com
 
 ## 100 - Introduction
 
+See [README.md](./100/README.md)
+
 ## 200 - Requirements
 
 ## 300 - Building Our Application
